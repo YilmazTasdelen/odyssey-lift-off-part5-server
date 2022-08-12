@@ -1,5 +1,7 @@
 # Odyssey Lift-off V (Server): Road to production
 
+deployed to https://server-cats-catstronaut.herokuapp.com/
+
 Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
